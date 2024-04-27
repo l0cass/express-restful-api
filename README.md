@@ -27,8 +27,6 @@ Para rodar o projeto, você precisará ter instalado em sua máquina:
    git clone https://github.com/l0cass/api-restful.git
    ```
 
-````
-
 2. Navegue até o diretório do projeto:
 
    ```bash
@@ -64,7 +62,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou corre
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-```
-
 Este README.md fornece uma visão geral do projeto, instruções de configuração e execução, detalhes das funcionalidades, bem como informações sobre contribuição e licença. Com isso, você deve ter um bom ponto de partida para compartilhar seu projeto com outras pessoas.
-````
