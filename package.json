@@ -1,0 +1,24 @@
+{
+  "name": "api-restful",
+  "version": "1.0.0",
+  "description": "Backend project using RESTful API with MongoDB Atlas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js localhost 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l0cass/api-restful"
+  },
+  "author": "Lucas Piffer <piffer.lucas0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
